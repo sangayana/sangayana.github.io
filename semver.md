@@ -1,10 +1,14 @@
-﻿# 巴利圣典版号
+﻿# 巴利圣典版本
 
 ## 4.0 版 Sinhala 語。metta.lk
-## 5.0 版 曼德勒石碑。
-## 5.1 PTS 版
-##  6.0 版 緬甸文
-##  6.1 VRI 版
-##  6.2 SC 版
-## 6.3 Heho版。
-   
+## PTS 版
+文字編碼：IAST ，文件格式：PDF，粒度：段落。授權：學術使用免費
+
+## VRI 版
+文字編碼：Unicode Devanagari ，文件格式：TEI，粒度：段落。授權：不明確，可免費下載
+
+## SC 版
+文字編碼：ISO 15919 ，  文件格式：JSON。粒度：句子。授權：CC Zero
+
+## Accelon 版。
+文字編碼：Provident ，  文件格式：Offtext。粒度：句子，拆詞。授權：CC Zero
